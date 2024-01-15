@@ -9,3 +9,6 @@ Requisitos apresentados:
 
 ![image](https://github.com/Aistarabaw/AED2/assets/101880306/726e2c13-0c12-4fdf-afb6-f7d3668fd351)
 
+Projeto em ZIP:
+
+[Projeto-AED 2.zip](https://github.com/Aistarabaw/AED2/files/13934243/Projeto-AED.2.zip)
